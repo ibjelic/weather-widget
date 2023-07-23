@@ -1,6 +1,7 @@
 # Weather Widget
 
 This is a desktop widget made with PyQt5 and OpenWeatherMap API. It displays the current time, date, and weather conditions, including temperature, humidity, atmospheric pressure, wind speed, and chance of rain, for Belgrade, RS.
+![image](https://github.com/ibjelic/weather-widget/assets/29605484/2148e4be-881d-4cbd-ab6e-245f5e187245)
 
 ## Getting Started
 
